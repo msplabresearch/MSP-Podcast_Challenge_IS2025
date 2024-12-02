@@ -111,7 +111,7 @@ If you are only evaluating a model and do not wish to train it, comment out the 
 
 ### Evaluation and saving results for emotional attributes prediction
 
-A custom executable sample file for evaluation and results saving has been provided `./train_eval_files/eval_dim_ser.py`. To execute, just download or train the multi-task emotional attributes baseline. The script `bash run_dim.sh` already has execution code to run this set up (Note: If you will not be training the entire model again, please comment out the training lines in `run_dim.sh` before evaluation). TThe results will be saved in the correct `.csv` format and it will be located in a `results` folder created inside your model path location.
+A custom executable sample file for evaluation and results saving has been provided `./train_eval_files/eval_dim_ser.py`. To execute, just download or train the multi-task emotional attributes baseline. The script `bash run_dim.sh` already has execution code to run this set up (Note: If you will not be training the entire model again, please comment out the training lines in `run_dim.sh` before evaluation). The results will be saved in the correct `.csv` format and it will be located in a `results` folder created inside your model path location.
 
 ## Issues
 
